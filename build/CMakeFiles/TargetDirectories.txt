@@ -1,0 +1,7 @@
+/home/parth/test_git/build/CMakeFiles/clean_test_results.dir
+/home/parth/test_git/build/CMakeFiles/download_extra_data.dir
+/home/parth/test_git/build/CMakeFiles/doxygen.dir
+/home/parth/test_git/build/gtest/CMakeFiles/gtest.dir
+/home/parth/test_git/build/gtest/CMakeFiles/gtest_main.dir
+/home/parth/test_git/build/CMakeFiles/run_tests.dir
+/home/parth/test_git/build/CMakeFiles/tests.dir

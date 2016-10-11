@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/parth/test_git/devel -DCMAKE_INSTALL_PREFIX=/home/parth/test_git/install -G Unix Makefiles
